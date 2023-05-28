@@ -1,5 +1,5 @@
 ﻿## MSquare Programing Fullstack Course
-### Episode-*77* 
+### Episode-*78* 
 ### Summary For `Room(2)` 
 ### Routing
 - drawer ထဲက menu items တွေကို click လိုက်ရင် သက်ဆိုင်ရာ route တွေဆီ သွားပြီး သက်ဆိုင်တဲ့ component ကို ပြပေးနိုင်အောင် လုပ်ပါမယ်။
