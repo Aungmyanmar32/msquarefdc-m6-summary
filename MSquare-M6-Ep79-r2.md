@@ -1,5 +1,5 @@
 ﻿## MSquare Programing Fullstack Course
-### Episode-*78* 
+### Episode-*79* 
 ### Summary For `Room(2)` 
 ## Protected Routes
 ### log in ၀င်ထားတဲ့ user ဖြစ်မှသာ menu, setting အစရှိတဲ့ route တွေ ၀င်လို့ရအောင် protect လုပ်မှာဖြစ်ပါတယ်။
