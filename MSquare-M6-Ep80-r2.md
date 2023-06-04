@@ -1,5 +1,5 @@
 ﻿## MSquare Programing Fullstack Course
-### Episode-*79* 
+### Episode-*80* 
 ### Summary For `Room(2)` 
 ## Location and Company 
 ### Setting component မှာ login ၀င်ထားတဲ့ user ရဲ့ company နဲ့ location ကို ပြပေးပြီး Update လုပ်လို့ရအောင်  လုပ်ကြပါမယ်။
