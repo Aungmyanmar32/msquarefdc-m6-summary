@@ -1,5 +1,5 @@
 ﻿## MSquare Programing Fullstack Course
-### Episode-*83* 
+### Episode-*84* 
 ### Summary For `Room(2)` 
 ## Create *Table* table ( CURD )
 - Location တစ်ခုမှာ စားပွဲခုံ ( table) တွေ သိမ်းဖို့ Table ဆိုတဲ့  table တစ်ခုကို database မှာ အသစ်လုပ်ပါမယ်
