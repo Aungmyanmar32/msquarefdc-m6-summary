@@ -1,5 +1,5 @@
 ﻿## MSquare Programing Fullstack Course
-### Episode-*97* 
+### Episode-*98* 
 ### Summary For `Room(2)` 
 ## Add new user
 - ဒီနေ့သင်ခန်းစာမှာတော့ nextJS နဲ့ prisma ကို သုံးပြီး user တစ်ယောက် create လုပ်ကာ database ထဲက User table မှာ သိမ်းလိုက်တာကို လေ့လာကြည့်ရအောင်
